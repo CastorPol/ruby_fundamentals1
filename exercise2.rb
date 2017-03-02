@@ -10,3 +10,5 @@ my_string = "I was born on May..."
 number = 26
 
  puts my_string + number.to_s
+
+ puts "the result of 45628 * 7839 is... #{45628*7839}"
